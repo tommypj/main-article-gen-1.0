@@ -1,0 +1,4 @@
+{
+  "image": "gcr.io/google.com/cloudsdktool/cloud-sdk:slim",
+  "postStartCommand": "bash .devcontainer/init-gcp.sh"
+}
